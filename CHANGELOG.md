@@ -1,15 +1,29 @@
 # Change Log
 
-All notable changes to the "zico-vscode" extension will be documented in this file.
+All notable changes to the "Zico" programming language will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [Version]
 
-## [Unreleased]
-
-- Initial release
+Version: **Zico 1.0.3 Functions Update BETA**
 
 ### Added
 
-[+] Zico File Icon **(.zi)**
-[+] Zico Syntax **Highlighting**
-[+] Zico **1.0.3** Support 
+[+] PDBL Library
+[+] FPBL Library
+[+] VSCode Extension
+[+] New Functions:
+> tick()
+> type()
+> date()
+> time()
+> GetPID()
+> print()
+> wait()
+> len()
+> exit()
+[+] Tables:
+```zi
+table a = {
+  ["example"] = "Hi!"
+```
+[+] .zi File Extension
