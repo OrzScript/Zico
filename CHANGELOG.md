@@ -20,7 +20,8 @@ Version: **Zico 1.0.3 Functions Update BETA**
 > print()
 > wait()
 > len()
-> exit()\n
+> exit()
+
 [+] Tables:
 ```zi
 table a = {
