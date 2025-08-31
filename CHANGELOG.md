@@ -34,5 +34,6 @@ Version: **Zico 1.0.3 Functions Update BETA**
 ```zi
 table a = {
   ["example"] = "Hi!"
+}
 ```
 [+] .zi File Extension
