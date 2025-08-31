@@ -13,13 +13,20 @@ Version: **Zico 1.0.3 Functions Update BETA**
 [+] VSCode Extension
 [+] New Functions:
 > tick()
+> 
 > type()
+> 
 > date()
+> 
 > time()
+> 
 > GetPID()
+> 
 > print()
 > wait()
+> 
 > len()
+> 
 > exit()
 
 [+] Tables:
